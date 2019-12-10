@@ -29,33 +29,32 @@ sidebar:
         level: Native
 
       - idiom: French
-        level: CBC
+        level: CBC 
 
-      - idiom: 
-        level: 
-
-    interests:
-      - item: 
-        link:
-
-      - item: 
-        link:
-
-      - item: 
-        link:
+#    interests:
+#      - item: 
+#        link:
+#
+#      - item: 
+#        link:
+#
+#      - item: 
+#        link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a PhD candidate at McGill University's Quantitative Life Sciences
+      program. My research interests are in high dimensional statistics in the
+      world of genetics. My primary research is at the Gravel Lab studying
+      population genetics and how to use dimension reduction to understand and
+      improve inference on data. I am also interested in using data from
+      single-cell RNA sequencing, neuroinformatics, and biological data in general
+      in my role as a statistical mercenary. I also teach and lead workshops
+      in computing and statistics.
 education:
-    - degree: PhD
-      university: McGill University (Quantitative Life Sciences)
+    - degree: PhD (Quantitative Life Sciences)
+      university: McGill University
       time: 2017 - present
       details: |
        My research is in population genetics under the supervision of Dr.
@@ -71,14 +70,14 @@ education:
         measurements of individual and team performance using National Hockey
         League data.
     - degree: BMath
-      university: University of Waterloo
+      university: University of Waterloo (Statistics, Pure Math)
       time: 2005 - 2009
       details: |
         I completed my undergraduate in the Faculty of Mathematics at the
         University of Waterloo. My major was statistics and my minor was in
         pure mathematics, with additional courses in analysis, computer science,
         combinatorics, and number theory.
-experiences:
+work experience:
     - role: Instructor
       time: 2018
       company: McGill University, Montreal
@@ -135,46 +134,43 @@ experiences:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+        The following are my accepted publications.
+      
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "UMAP reveals cryptic population structure and phenotype heterogeneity in large genomic cohorts"
+        link: "10.1371/journal.pgen.1008432"
+        authors: **Alex Diaz-Papkovich**, Luke Anderson-Trocmé, Chief Ben-Eghan, Simon Gravel
+        conference: "PLoS genetics 15.11 (2019)."
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "A molecular gradient along the longitudinal axis of the human hippocampus informs large-scale behavioral systems"
+        link: "https://www.biorxiv.org/content/10.1101/587071v1.abstract"
+        authors: Jacob Vogel, Renaud La Joie, Michel Grothe, **Alexandr Diaz-Papkovich**, Andrew Doyle, Etienne Vachon-Presseau, Claude Lepage, 
+        Reinder Vos de Wael, Rhalena Thomas, Yasser Iturria-Medina, Boris Bernhardt, Gil Rabinovici, and Alan Evans
+        conference: "Nature Communications (accepted December 2019)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "Data Mining the Play-by-Play: Assessing and Applying NHL Performance Metrics Using Statistical Methods"
+        link: "https://curve.carleton.ca/00eb017b-e687-4402-a347-c5c1911c832c"
+        authors: Alex Diaz-Papkovich
+        conference: "Diss. Carleton University, 2015."
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Statistics
+        level: 100%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Mathematics
+        level: 95%
+        
+      - name: Data visualization
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: R
+        level: 98%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Python
+        level: 80%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

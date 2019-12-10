@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -142,13 +142,13 @@ publications:
     intro: |      
     papers:
       - title: "UMAP reveals cryptic population structure and phenotype heterogeneity in large genomic cohorts"
-        link: "10.1371/journal.pgen.1008432"
+        link: "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008432"
         authors: Alex Diaz-Papkovich, Luke Anderson-Trocmé, Chief Ben-Eghan, Simon Gravel
         conference: "PLoS genetics 15.11 (2019)."
 
       - title: "A molecular gradient along the longitudinal axis of the human hippocampus informs large-scale behavioral systems"
         link: "https://www.biorxiv.org/content/10.1101/587071v1.abstract"
-        authors: Jacob Vogel, Renaud La Joie, Michel Grothe, Alexandr Diaz-Papkovich, Andrew Doyle, Etienne Vachon-Presseau, Claude Lepage, Reinder Vos de Wael, Rhalena Thomas, Yasser Iturria-Medina, Boris Bernhardt, Gil Rabinovici, and Alan Evans
+        authors: Jacob Vogel, Renaud La Joie, Michel Grothe, **Alexandr Diaz-Papkovich**, Andrew Doyle, Etienne Vachon-Presseau, Claude Lepage, Reinder Vos de Wael, Rhalena Thomas, Yasser Iturria-Medina, Boris Bernhardt, Gil Rabinovici, and Alan Evans
         conference: "Nature Communications (accepted December 2019)"
 
       - title: "Data Mining the Play-by-Play: Assessing and Applying NHL Performance Metrics Using Statistical Methods"
@@ -163,14 +163,14 @@ skills:
       - name: Statistics
         level: 100%
 
+      - name: R
+        level: 98%
+        
       - name: Mathematics
         level: 95%
         
       - name: Data visualization
         level: 95%
-
-      - name: R
-        level: 98%
 
       - name: Python
         level: 80%

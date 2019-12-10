@@ -83,7 +83,7 @@ education:
         University of Waterloo. My major was statistics and my minor was in
         pure mathematics, with additional courses in analysis, computer science,
         combinatorics, and number theory.
-work experience:
+experiences:
     - role: Instructor
       time: 2018
       company: McGill University, Montreal
@@ -139,9 +139,7 @@ work experience:
 
 publications:
     title: Publications
-    intro: |
-        The following are my accepted publications.
-      
+    intro: |      
     papers:
       - title: "UMAP reveals cryptic population structure and phenotype heterogeneity in large genomic cohorts"
         link: "10.1371/journal.pgen.1008432"

@@ -12,14 +12,14 @@ sidebar:
     avatar: 38506636.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: 
+    email: alex.diaz-papkovich@mail.mcgill.ca
     phone: 
     website: 
     linkedin: 
     github: diazale
     gitlab:
     bitbucket:
-    twitter: 
+    twitter: adp_diaz
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -29,7 +29,7 @@ sidebar:
         level: Native
 
       - idiom: French
-        level: CBC 
+        level: B/B/C linguistic profile
         
       - idiom: Spanish
         level: Conversational
@@ -52,7 +52,7 @@ career-profile:
     summary: |
       I am a PhD candidate at McGill University's Quantitative Life Sciences
       program. My research interests are in high dimensional statistics in the
-      world of genetics. My primary research is at the Gravel Lab studying
+      world of genetics. My primary research is at Simon Gravel's lab studying
       population genetics and how to use dimension reduction to understand and
       improve inference on data. I am also interested in using data from
       single-cell RNA sequencing, neuroinformatics, and biological data in general
@@ -77,18 +77,24 @@ education:
         League data.
     - degree: BMath
       university: University of Waterloo (Statistics, Pure Math)
-      time: 2005 - 2009
+      time: 2005 - 2010
       details: |
         I completed my undergraduate in the Faculty of Mathematics at the
         University of Waterloo. My major was statistics and my minor was in
         pure mathematics, with additional courses in analysis, computer science,
         combinatorics, and number theory.
 experiences:
+    - role: Teaching assistant
+      time: 2018 - 2019
+      company: McGill University, Montreal
+      details: |
+        I led bootcamps teaching graduate students applications of MATLAB for
+        image analysis and using Python to solve ODEs.
     - role: Instructor
       time: 2018
       company: McGill University, Montreal
       details: |
-        I was the instructor for EPIB613: Introduction to Statistical Programming
+        I was the instructor for EPIB613: Introduction to Statistical Software
         for McGill graduate students in epidemiology. The course covered how
         to implement statistical approaches using R.
     - role: Mathematical statistician
@@ -99,8 +105,10 @@ experiences:
         methods for several surveys and projects. My responsibilities included
         survey design, sample selection and allocation, weighting, estimation,
         statistical programming, record linkage, and writing and presenting 
-        technical reports to stakeholders. My projects included:
+        technical reports to stakeholders as well as supervision duties.
+        My projects included:
           - The International Travel Survey
+          - The Canadian Survey of Economic Well-Being
           - The Canadian Income Survey
           - The Longitudinal Immigration Database
     - role: Technical consultant
@@ -110,20 +118,25 @@ experiences:
         I was responsible for developing internal applications for insurance
         agents and database maintenance for the company. Most of the work was
         done in Visual Basic, VBA, and SQL.
-#projects:
-#    title: Projects
-#    intro: >
-#      You can list your side projects or open source libraries in this
-#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#    assignments:
-#      - title: Velocity
-#        link: "#hook"
-#        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-#
-#      - title: DevStudio
-#        link: "#"
-#        tagline: "A responsive website template designed to help web developers/designers market their services."
+projects:
+    title: Projects
+    intro: 
+    assignments:
+      - title: Introduction to linear regression workshop
+        link: "https://diazale.github.io/hgss_regression_workshop/regression_workshop.html"
+        tagline: "An introductory workshop on theory and applications of linear regression with accompanying code."
+      
+      - title: Dimension reduction of genotypes
+        link: "https://github.com/diazale/gt-dimred"
+        tagline: "Repository of code used to study dimension reduction on genotype data and to accompany my PLOS Genetics publicaiton."
+      
+      - title: An interactive demonstration of dimension reduction on genotype data
+        link: "https://github.com/diazale/1KGP_dimred"
+        tagline: "A jupyter notebook comparing PCA, t-SNE, and UMAP on 1000 Genomes Project data."
+
+      - title: Modelling population growth using ordinary differential equations
+        link: "https://github.com/diazale/ode_models"
+        tagline: "An introduction to using ODEs to solve models of population dynamics."
 #
 #      - title: Tempo
 #        link: "#"
@@ -166,14 +179,20 @@ skills:
       - name: R
         level: 98%
         
-      - name: Mathematics
-        level: 95%
-        
       - name: Data visualization
         level: 95%
+        
+      - name: Mathematics
+        level: 90%
 
       - name: Python
         level: 80%
+        
+      - name: SAS
+        level: 50%
+        
+      - name: Matlab
+        level: 25%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

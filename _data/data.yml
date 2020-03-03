@@ -164,12 +164,17 @@ publications:
       - title: "Recent fluctuations in Mexican American genomes have altered the genetic architecture of biomedical traits"
         link: "https://www.biorxiv.org/content/10.1101/2020.01.13.905141v1"
         authors: Melissa L Spear, Alex Diaz-Papkovich, Elad Ziv, Simon Gravel, Dara G Torgerson,  Ryan Hernandez
-        conference: "bioRxiv (2020)"
+        conference: "bioRxiv (2020)."
 
       - title: "A molecular gradient along the longitudinal axis of the human hippocampus informs large-scale behavioral systems"
-        link: "https://www.nature.com/articles/s41467-020-14518-3"
+        link: "https://arxiv.org/abs/2002.03419"
         authors: Jacob Vogel, Renaud La Joie, Michel Grothe, Alexandr Diaz-Papkovich, Andrew Doyle, Etienne Vachon-Presseau, Claude Lepage, Reinder Vos de Wael, Rhalena Thomas, Yasser Iturria-Medina, Boris Bernhardt, Gil Rabinovici, and Alan Evans
-        conference: "Nature Communications (2020)"
+        conference: "arXiv (2020)."
+        
+      - title: "The Alzheimer's Disease Prediction Of Longitudinal Evolution (TADPOLE) Challenge: Results after 1 Year Follow-up."
+        link: "https://www.nature.com/articles/s41467-020-14518-3"
+        authors: Razvan V. Marinescu, Neil P. Oxtoby, Alexandra L. Young, Esther E. Bron, Arthur W. Toga, Michael W. Weiner, Frederik Barkhof, Nick C. Fox, Arman Eshaghi, Tina Toni, Marcin Salaterski, Veronika Lunina, Manon Ansart, Stanley Durrleman, Pascal Lu, Samuel Iddi, Dan Li, Wesley K. Thompson, Michael C. Donohue, Aviv Nahon, Yarden Levy, Dan Halbersberg, Mariya Cohen, Huiling Liao, Tengfei Li, Kaixian Yu, Hongtu Zhu, Jose G. Tamez-Pena, Aya Ismail, Timothy Wood, Hector Corrada Bravo, Minh Nguyen, Nanbo Sun, Jiashi Feng, B.T. Thomas Yeo, Gang Chen, Ke Qi, Shiyang Chen, Deqiang Qiu, Ionut Buciuman, Alex Kelner, Raluca Pop, Denisa Rimocea, Mostafa M. Ghazi, Mads Nielsen, Sebastien Ourselin, Lauge Sorensen, Vikram Venkatraghavan, Keli Liu, Christina Rabe, Paul Manser, Steven M. Hill, James Howlett, Zhiyue Huang, Steven Kiddle, Sach Mukherjee, Anais Rouanet, Bernd Taschler, Brian D. M. Tom, Simon R. White, Noel Faux, Suman Sedai, Javier de Velasco Oriol, Edgar E. V. Clemente, Karol Estrada, Leon Aksman, Andre Altmann, Cynthia M. Stonnington, Yalin Wang, Jianfeng Wu, Vivek Devadas, Clementine Fourrier, Lars Lau Raket, Aristeidis Sotiras, Guray Erus, Jimit Doshi, Christos Davatzikos, Jacob Vogel, Andrew Doyle, Angela Tam, Alex Diaz-Papkovich, Emmanuel Jammeh, Igor Koval, Paul Moore, Terry J. Lyons, John Gallacher, Jussi Tohka, Robert Ciszek, Bruno Jedynak, Kruti Pandya, Murat Bilgel, William Engels, Joseph Cole, Polina Golland, Stefan Klein, Daniel C. Alexander
+        conference: "Nature Communications (2020)."     
 
       - title: "Data Mining the Play-by-Play: Assessing and Applying NHL Performance Metrics Using Statistical Methods"
         link: "https://curve.carleton.ca/00eb017b-e687-4402-a347-c5c1911c832c"

@@ -123,6 +123,10 @@ projects:
     title: Projects
     intro: 
     assignments:
+      - title: Dimension reduction workshop
+        link: "https://github.com/diazale/dimension_reduction_workshop"
+        tagline: "An interactive introduction to dimension reduction of genetic and single-cell data for the McGill Initiative in Computation Medicine."
+        
       - title: Introduction to linear regression workshop
         link: "https://diazale.github.io/hgss_regression_workshop/regression_workshop.html"
         tagline: "An introductory workshop on theory and applications of linear regression with accompanying code."

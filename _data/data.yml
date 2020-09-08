@@ -148,6 +148,11 @@ publications:
     intro: |      
     papers:
         
+      - title: "Don’t ignore genetic data from minority populations"
+        link: "https://www.nature.com/articles/d41586-020-02547-3"
+        authors: Chief Ben-Eghan, Rosie Sun, Jose Sergio Hleap, Alex Diaz-Papkovich, Hans Markus Munter, Audrey V. Grant, Charles Dupras, Simon Gravel
+        conference: "Nature 585, 184-186 (2020)"
+      
       - title: "UMAP reveals cryptic population structure and phenotype heterogeneity in large genomic cohorts"
         link: "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008432"
         authors: Alex Diaz-Papkovich, Luke Anderson-Trocmé, Chief Ben-Eghan, Simon Gravel

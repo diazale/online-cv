@@ -150,7 +150,7 @@ publications:
         
       - title: "A review of UMAP in population genetics"
         link: "rdcu.be/b8vFr"
-        authors: Alex Diaz-Papkovich, Luke Anderson-Trocmé, Simon Gravel
+        authors: *Alex Diaz-Papkovich*, Luke Anderson-Trocmé, Simon Gravel
         conference: "Journal of Human Genetics (2020)"
         
       - title: "Don’t ignore genetic data from minority populations"

@@ -147,26 +147,26 @@ publications:
     title: Publications
     intro: |      
     papers:
-        
+ 
       - title: "A review of UMAP in population genetics"
         link: "https://www.nature.com/articles/s10038-020-00851-4"
         authors: Alex Diaz-Papkovich, Luke Anderson-Trocmé, Simon Gravel
         conference: "Journal of Human Genetics (2020)"
         
-      - title: "Don’t ignore genetic data from minority populations"
-        link: "https://www.nature.com/articles/d41586-020-02547-3"
-        authors: Chief Ben-Eghan, Rosie Sun, Jose Sergio Hleap, Alex Diaz-Papkovich, Hans Markus Munter, Audrey V. Grant, Charles Dupras, Simon Gravel
-        conference: "Nature 585, 184-186 (2020)"
-      
       - title: "UMAP reveals cryptic population structure and phenotype heterogeneity in large genomic cohorts"
         link: "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008432"
         authors: Alex Diaz-Papkovich, Luke Anderson-Trocmé, Chief Ben-Eghan, Simon Gravel
-        conference: "PLOS Genetics 15.11 (2019)."
+        conference: "PLOS Genetics (2019)."
         
-      - title: "Recent fluctuations in Mexican American genomes have altered the genetic architecture of biomedical traits"
-        link: "https://www.biorxiv.org/content/10.1101/2020.01.13.905141v1"
-        authors: Melissa L Spear, Alex Diaz-Papkovich, Elad Ziv, Simon Gravel, Dara G Torgerson,  Ryan Hernandez
-        conference: "bioRxiv (2020)."
+      - title: "Recent shifts in the genomic ancestry of Mexican Americans may alter the genetic architecture of biomedical traits"
+        link: "https://elifesciences.org/articles/56029"
+        authors: Melissa L Spear, Alex Diaz-Papkovich, Elad Ziv, Joseph M Yracheta, Simon Gravel, Dara G Torgerson, Ryan D Hernandez 
+        conference: "eLife (2020)."
+        
+      - title: "Don’t ignore genetic data from minority populations"
+        link: "https://www.nature.com/articles/d41586-020-02547-3"
+        authors: Chief Ben-Eghan, Rosie Sun, Jose Sergio Hleap, Alex Diaz-Papkovich, Hans Markus Munter, Audrey V. Grant, Charles Dupras, Simon Gravel
+        conference: "Nature (2020)"
 
       - title: "A molecular gradient along the longitudinal axis of the human hippocampus informs large-scale behavioral systems"
         link: "https://www.nature.com/articles/s41467-020-14518-3"

@@ -121,7 +121,7 @@ experience:
         agents and database maintenance for the company. Most of the work was
         done in Visual Basic, VBA, and SQL.
 projects:
-    title: Projects
+    title: Online content
     intro: 
     assignments:
       - title: Dimension reduction workshop
@@ -131,10 +131,6 @@ projects:
       - title: Introduction to statistics in R
         link: "https://github.com/diazale/intro_to_r_stats"
         tagline: "An introductory workshop for students in biology to learn the theory and application of statistics in R. Covers hypothesis testing, ANOVA, and regression."
-      
-      - title: Death by Car
-        link: "https://github.com/diazale/death_by_car"
-        tagline: "A project designed to collect and analyze news stories of traffic violence against cyclists and pedestrians in Canada."
       
       - title: Introduction to linear regression workshop
         link: "https://diazale.github.io/hgss_regression_workshop/regression_workshop.html"
@@ -151,6 +147,10 @@ projects:
       - title: Modelling population growth using ordinary differential equations
         link: "https://github.com/diazale/ode_models"
         tagline: "An introduction to using ODEs to solve models of population dynamics."
+
+      - title: Death by Car
+        link: "https://github.com/diazale/death_by_car"
+        tagline: "A project designed to collect and analyze news stories of traffic violence against cyclists and pedestrians in Canada."
 
 publications:
     title: Publications

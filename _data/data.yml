@@ -67,7 +67,8 @@ education:
        Simon Gravel. I focus on dimension reduction and high dimensional
        statistics, as well as developing methodologies to study problems in
        population genetics. I also supervise undergraduate students who carry
-       out research under my direction as part of their course work or internships.
+       out research under my direction as part of their course work or internships,
+       and I regularly review scientific manuscripts within the field.
     - degree: MSc (Probability & Statistics)
       university: Carleton University
       time: 2012 - 2015
@@ -86,7 +87,7 @@ education:
         combinatorics, and number theory.
 experience:
     - role: Teaching assistant
-      time: 2018 - 2019
+      time: 2018 - present
       company: McGill University, Montreal
       details: |
         I led bootcamps teaching graduate students applications of MATLAB for
@@ -127,6 +128,14 @@ projects:
         link: "https://github.com/diazale/dimension_reduction_workshop"
         tagline: "An interactive introduction to dimension reduction of genetic and single-cell data for the McGill Initiative in Computation Medicine."
         
+      - title: Introduction to statistics in R
+        link: "https://github.com/diazale/intro_to_r_stats"
+        tagline: "An introductory workshop for students in biology to learn the theory and application of statistics in R. Covers hypothesis testing, ANOVA, and regression."
+      
+      - title: Death by Car
+        link: "https://github.com/diazale/death_by_car"
+        tagline: "A project designed to collect and analyze news stories of traffic violence against cyclists and pedestrians in Canada."
+      
       - title: Introduction to linear regression workshop
         link: "https://diazale.github.io/hgss_regression_workshop/regression_workshop.html"
         tagline: "An introductory workshop on theory and applications of linear regression with accompanying code."
@@ -157,6 +166,16 @@ publications:
         link: "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008432"
         authors: Alex Diaz-Papkovich, Luke Anderson-Trocmé, Chief Ben-Eghan, Simon Gravel
         conference: "PLOS Genetics (2019)."
+      
+      - title: "On the Genes, Genealogies, and Geographies of Quebec"
+        link: "https://www.biorxiv.org/content/10.1101/2022.07.20.500680v1.abstract"
+        authors: Luke Anderson-Trocmé, Dominic Nelson, Shadi Zabad, Alex Diaz-Papkovich, Nikolas Baya, Mathilde Touvier, Ben Jeffery, Christian Dina, Hélène Vézina, Jerome Kelleher, Simon Gravel
+        conference: "bioRxib (2022)."
+      
+      - title: "Conserved whole-brain spatiomolecular gradients shape adult brain functional organization"
+        link: "https://www.biorxiv.org/content/10.1101/2022.09.18.508425v1.abstract"
+        authors: Jacob W Vogel, Aaron Alexander-Bloch, Konrad Wagstyl, Maxwell Bertolero, Ross Markello, Adam Pines, Valerie J Sydnor, Alex Diaz-Papkovich, Justine Hansen, Alan C Evans, Boris Bernhardt, Bratislav Misic, Theodore Satterthwaite, Jakob Seidlitz
+        conference: "bioRxiv (2022)."
         
       - title: "Recent shifts in the genomic ancestry of Mexican Americans may alter the genetic architecture of biomedical traits"
         link: "https://elifesciences.org/articles/56029"
@@ -196,19 +215,22 @@ skills:
         level: 100%
 
       - name: R
-        level: 98%
+        level: 100%
         
       - name: Data visualization
-        level: 95%
+        level: 100%
         
       - name: Mathematics
+        level: 100%
+        
+      - name: Bioinformatics
         level: 90%
 
       - name: Python
         level: 80%
         
       - name: SAS
-        level: 50%
+        level: 70%
         
       - name: Matlab
         level: 25%

@@ -120,6 +120,57 @@ experience:
         I was responsible for developing internal applications for insurance
         agents and database maintenance for the company. Most of the work was
         done in Visual Basic, VBA, and SQL.
+
+publications:
+    title: Publications
+    intro: |      
+    papers:
+ 
+      - title: "A review of UMAP in population genetics"
+        link: "https://www.nature.com/articles/s10038-020-00851-4"
+        authors: Alex Diaz-Papkovich, Luke Anderson-Trocmé, Simon Gravel
+        conference: "Journal of Human Genetics (2020)"
+        
+      - title: "UMAP reveals cryptic population structure and phenotype heterogeneity in large genomic cohorts"
+        link: "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008432"
+        authors: Alex Diaz-Papkovich, Luke Anderson-Trocmé, Chief Ben-Eghan, Simon Gravel
+        conference: "PLOS Genetics (2019)."
+      
+      - title: "On the Genes, Genealogies, and Geographies of Quebec"
+        link: "https://www.biorxiv.org/content/10.1101/2022.07.20.500680v1.abstract"
+        authors: Luke Anderson-Trocmé, Dominic Nelson, Shadi Zabad, Alex Diaz-Papkovich, Nikolas Baya, Mathilde Touvier, Ben Jeffery, Christian Dina, Hélène Vézina, Jerome Kelleher, Simon Gravel
+        conference: "bioRxiv (2022)."
+      
+      - title: "Conserved whole-brain spatiomolecular gradients shape adult brain functional organization"
+        link: "https://www.biorxiv.org/content/10.1101/2022.09.18.508425v1.abstract"
+        authors: Jacob W Vogel, Aaron Alexander-Bloch, Konrad Wagstyl, Maxwell Bertolero, Ross Markello, Adam Pines, Valerie J Sydnor, Alex Diaz-Papkovich, Justine Hansen, Alan C Evans, Boris Bernhardt, Bratislav Misic, Theodore Satterthwaite, Jakob Seidlitz
+        conference: "bioRxiv (2022)."
+        
+      - title: "Recent shifts in the genomic ancestry of Mexican Americans may alter the genetic architecture of biomedical traits"
+        link: "https://elifesciences.org/articles/56029"
+        authors: Melissa L Spear, Alex Diaz-Papkovich, Elad Ziv, Joseph M Yracheta, Simon Gravel, Dara G Torgerson, Ryan D Hernandez 
+        conference: "eLife (2020)."
+        
+      - title: "Don’t ignore genetic data from minority populations"
+        link: "https://www.nature.com/articles/d41586-020-02547-3"
+        authors: Chief Ben-Eghan, Rosie Sun, Jose Sergio Hleap, Alex Diaz-Papkovich, Hans Markus Munter, Audrey V. Grant, Charles Dupras, Simon Gravel
+        conference: "Nature (2020)"
+
+      - title: "A molecular gradient along the longitudinal axis of the human hippocampus informs large-scale behavioral systems"
+        link: "https://www.nature.com/articles/s41467-020-14518-3"
+        authors: Jacob Vogel, Renaud La Joie, Michel Grothe, Alexandr Diaz-Papkovich, Andrew Doyle, Etienne Vachon-Presseau, Claude Lepage, Reinder Vos de Wael, Rhalena Thomas, Yasser Iturria-Medina, Boris Bernhardt, Gil Rabinovici, and Alan Evans
+        conference: "Nature Communications (2020)."
+        
+      - title: "The Alzheimer's Disease Prediction Of Longitudinal Evolution (TADPOLE) Challenge: Results after 1 Year Follow-up."
+        link: "https://arxiv.org/abs/2002.03419"
+        authors: Razvan V. Marinescu, Neil P. Oxtoby, Alexandra L. Young, Esther E. Bron, Arthur W. Toga, Michael W. Weiner, Frederik Barkhof, Nick C. Fox, Arman Eshaghi, Tina Toni, Marcin Salaterski, Veronika Lunina, Manon Ansart, Stanley Durrleman, Pascal Lu, Samuel Iddi, Dan Li, Wesley K. Thompson, Michael C. Donohue, Aviv Nahon, Yarden Levy, Dan Halbersberg, Mariya Cohen, Huiling Liao, Tengfei Li, Kaixian Yu, Hongtu Zhu, Jose G. Tamez-Pena, Aya Ismail, Timothy Wood, Hector Corrada Bravo, Minh Nguyen, Nanbo Sun, Jiashi Feng, B.T. Thomas Yeo, Gang Chen, Ke Qi, Shiyang Chen, Deqiang Qiu, Ionut Buciuman, Alex Kelner, Raluca Pop, Denisa Rimocea, Mostafa M. Ghazi, Mads Nielsen, Sebastien Ourselin, Lauge Sorensen, Vikram Venkatraghavan, Keli Liu, Christina Rabe, Paul Manser, Steven M. Hill, James Howlett, Zhiyue Huang, Steven Kiddle, Sach Mukherjee, Anais Rouanet, Bernd Taschler, Brian D. M. Tom, Simon R. White, Noel Faux, Suman Sedai, Javier de Velasco Oriol, Edgar E. V. Clemente, Karol Estrada, Leon Aksman, Andre Altmann, Cynthia M. Stonnington, Yalin Wang, Jianfeng Wu, Vivek Devadas, Clementine Fourrier, Lars Lau Raket, Aristeidis Sotiras, Guray Erus, Jimit Doshi, Christos Davatzikos, Jacob Vogel, Andrew Doyle, Angela Tam, Alex Diaz-Papkovich, Emmanuel Jammeh, Igor Koval, Paul Moore, Terry J. Lyons, John Gallacher, Jussi Tohka, Robert Ciszek, Bruno Jedynak, Kruti Pandya, Murat Bilgel, William Engels, Joseph Cole, Polina Golland, Stefan Klein, Daniel C. Alexander
+        conference: "arXiv (2020)."     
+
+      - title: "Data Mining the Play-by-Play: Assessing and Applying NHL Performance Metrics Using Statistical Methods"
+        link: "https://curve.carleton.ca/00eb017b-e687-4402-a347-c5c1911c832c"
+        authors: Alex Diaz-Papkovich
+        conference: "Diss. Carleton University, 2015. Supervised by Dr. Shirley Mills."
+
 projects:
     title: Online content
     intro: 
@@ -151,56 +202,6 @@ projects:
       - title: Death by Car
         link: "https://github.com/diazale/death_by_car"
         tagline: "A project designed to collect and analyze news stories of traffic violence against cyclists and pedestrians in Canada."
-
-publications:
-    title: Publications
-    intro: |      
-    papers:
- 
-      - title: "A review of UMAP in population genetics"
-        link: "https://www.nature.com/articles/s10038-020-00851-4"
-        authors: Alex Diaz-Papkovich, Luke Anderson-Trocmé, Simon Gravel
-        conference: "Journal of Human Genetics (2020)"
-        
-      - title: "UMAP reveals cryptic population structure and phenotype heterogeneity in large genomic cohorts"
-        link: "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008432"
-        authors: Alex Diaz-Papkovich, Luke Anderson-Trocmé, Chief Ben-Eghan, Simon Gravel
-        conference: "PLOS Genetics (2019)."
-      
-      - title: "On the Genes, Genealogies, and Geographies of Quebec"
-        link: "https://www.biorxiv.org/content/10.1101/2022.07.20.500680v1.abstract"
-        authors: Luke Anderson-Trocmé, Dominic Nelson, Shadi Zabad, Alex Diaz-Papkovich, Nikolas Baya, Mathilde Touvier, Ben Jeffery, Christian Dina, Hélène Vézina, Jerome Kelleher, Simon Gravel
-        conference: "bioRxib (2022)."
-      
-      - title: "Conserved whole-brain spatiomolecular gradients shape adult brain functional organization"
-        link: "https://www.biorxiv.org/content/10.1101/2022.09.18.508425v1.abstract"
-        authors: Jacob W Vogel, Aaron Alexander-Bloch, Konrad Wagstyl, Maxwell Bertolero, Ross Markello, Adam Pines, Valerie J Sydnor, Alex Diaz-Papkovich, Justine Hansen, Alan C Evans, Boris Bernhardt, Bratislav Misic, Theodore Satterthwaite, Jakob Seidlitz
-        conference: "bioRxiv (2022)."
-        
-      - title: "Recent shifts in the genomic ancestry of Mexican Americans may alter the genetic architecture of biomedical traits"
-        link: "https://elifesciences.org/articles/56029"
-        authors: Melissa L Spear, Alex Diaz-Papkovich, Elad Ziv, Joseph M Yracheta, Simon Gravel, Dara G Torgerson, Ryan D Hernandez 
-        conference: "eLife (2020)."
-        
-      - title: "Don’t ignore genetic data from minority populations"
-        link: "https://www.nature.com/articles/d41586-020-02547-3"
-        authors: Chief Ben-Eghan, Rosie Sun, Jose Sergio Hleap, Alex Diaz-Papkovich, Hans Markus Munter, Audrey V. Grant, Charles Dupras, Simon Gravel
-        conference: "Nature (2020)"
-
-      - title: "A molecular gradient along the longitudinal axis of the human hippocampus informs large-scale behavioral systems"
-        link: "https://www.nature.com/articles/s41467-020-14518-3"
-        authors: Jacob Vogel, Renaud La Joie, Michel Grothe, Alexandr Diaz-Papkovich, Andrew Doyle, Etienne Vachon-Presseau, Claude Lepage, Reinder Vos de Wael, Rhalena Thomas, Yasser Iturria-Medina, Boris Bernhardt, Gil Rabinovici, and Alan Evans
-        conference: "Nature Communications (2020)."
-        
-      - title: "The Alzheimer's Disease Prediction Of Longitudinal Evolution (TADPOLE) Challenge: Results after 1 Year Follow-up."
-        link: "https://arxiv.org/abs/2002.03419"
-        authors: Razvan V. Marinescu, Neil P. Oxtoby, Alexandra L. Young, Esther E. Bron, Arthur W. Toga, Michael W. Weiner, Frederik Barkhof, Nick C. Fox, Arman Eshaghi, Tina Toni, Marcin Salaterski, Veronika Lunina, Manon Ansart, Stanley Durrleman, Pascal Lu, Samuel Iddi, Dan Li, Wesley K. Thompson, Michael C. Donohue, Aviv Nahon, Yarden Levy, Dan Halbersberg, Mariya Cohen, Huiling Liao, Tengfei Li, Kaixian Yu, Hongtu Zhu, Jose G. Tamez-Pena, Aya Ismail, Timothy Wood, Hector Corrada Bravo, Minh Nguyen, Nanbo Sun, Jiashi Feng, B.T. Thomas Yeo, Gang Chen, Ke Qi, Shiyang Chen, Deqiang Qiu, Ionut Buciuman, Alex Kelner, Raluca Pop, Denisa Rimocea, Mostafa M. Ghazi, Mads Nielsen, Sebastien Ourselin, Lauge Sorensen, Vikram Venkatraghavan, Keli Liu, Christina Rabe, Paul Manser, Steven M. Hill, James Howlett, Zhiyue Huang, Steven Kiddle, Sach Mukherjee, Anais Rouanet, Bernd Taschler, Brian D. M. Tom, Simon R. White, Noel Faux, Suman Sedai, Javier de Velasco Oriol, Edgar E. V. Clemente, Karol Estrada, Leon Aksman, Andre Altmann, Cynthia M. Stonnington, Yalin Wang, Jianfeng Wu, Vivek Devadas, Clementine Fourrier, Lars Lau Raket, Aristeidis Sotiras, Guray Erus, Jimit Doshi, Christos Davatzikos, Jacob Vogel, Andrew Doyle, Angela Tam, Alex Diaz-Papkovich, Emmanuel Jammeh, Igor Koval, Paul Moore, Terry J. Lyons, John Gallacher, Jussi Tohka, Robert Ciszek, Bruno Jedynak, Kruti Pandya, Murat Bilgel, William Engels, Joseph Cole, Polina Golland, Stefan Klein, Daniel C. Alexander
-        conference: "arXiv (2020)."     
-
-      - title: "Data Mining the Play-by-Play: Assessing and Applying NHL Performance Metrics Using Statistical Methods"
-        link: "https://curve.carleton.ca/00eb017b-e687-4402-a347-c5c1911c832c"
-        authors: Alex Diaz-Papkovich
-        conference: "Diss. Carleton University, 2015. Supervised by Dr. Shirley Mills."
 
 awards:
 

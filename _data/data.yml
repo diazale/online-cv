@@ -51,13 +51,17 @@ career-profile:
     title: Career Profile
     summary: |
       I am a PhD candidate at McGill University's Quantitative Life Sciences
-      program. My research interests are in high dimensional statistics in the
-      world of genetics. My primary research is at Simon Gravel's lab studying
-      population genetics and how to use dimension reduction to understand and
-      improve inference on data. I am also interested in using data from
+      program. I have broad interests in statistics and data science, particularly
+      in the world of genetics and biology. My doctoral research is at Simon Gravel's 
+      lab studying structure in population genetics and how to use dimension reduction 
+      to understand data and improve inference. I am also interested in using data from
       single-cell RNA sequencing, neuroinformatics, and biological data in general
-      in my role as a statistical mercenary. I also teach and lead workshops
-      in computing and statistics.
+      in my role as a statistical mercenary. 
+      
+      I enjoy teaching courses and workshops as my schedule permits, focusing on
+      statistics and statistical computing. My work prior to my doctorate included
+      professional work as a methodologist as well as graduate work in sports analytics.
+
 education:
     - degree: PhD (Quantitative Life Sciences, in progress)
       university: McGill University
@@ -92,7 +96,7 @@ experiences:
       details: |
         I have assisted in teaching courses in population genetics, and foundational
         courses in my PhD program. I have also designed and taught workshops on statistics
-        and statistical programming in R as well as dimensionality reduction.
+        and statistical programming in R as well as dimensionality reduction and ODEs.
     - role: Instructor
       time: 2018
       company: McGill University, Montreal

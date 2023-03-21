@@ -50,17 +50,18 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a PhD candidate at McGill University's Quantitative Life Sciences
+      I am a PhD candidate in McGill University's Quantitative Life Sciences
       program. I have broad interests in statistics and data science, particularly
-      in the world of genetics and biology. My doctoral research is at Simon Gravel's 
-      lab studying structure in population genetics and how to use dimension reduction 
-      to understand data and improve inference. I am also interested in using data from
+      in the world of genetics and biology. My doctoral research is with Simon Gravel's 
+      lab studying structure in population genetics and how to use dimensionality reduction 
+      to understand biobank data and improve inference. I am also interested in using data from
       single-cell RNA sequencing, neuroinformatics, and biological data in general
       in my role as a statistical mercenary. 
       
       I enjoy teaching courses and workshops as my schedule permits, focusing on
       statistics and statistical computing. My work prior to my doctorate included
-      professional work as a methodologist as well as graduate work in sports analytics.
+      professional work as a methodologist as well as graduate studies in data mining
+      and sports analytics.
 
 education:
     - degree: PhD (Quantitative Life Sciences, in progress)
@@ -90,7 +91,7 @@ education:
         pure mathematics, with additional courses in analysis, computer science,
         combinatorics, and number theory.
 experiences:
-    - role: Teaching assistant
+    - role: Teaching assistant and workshop leader
       time: 2018 - present
       company: McGill University, Montreal
       details: |
@@ -236,10 +237,10 @@ skills:
         level: 80%
         
       - name: SAS
-        level: 70%
+        level: 80%
         
       - name: Matlab
-        level: 25%
+        level: 35%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

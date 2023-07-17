@@ -131,6 +131,11 @@ publications:
     title: Publications
     intro: |      
     papers:
+
+      - title: "Topological stratification of continuous genetic variation in large biobanks"
+        link: "https://www.biorxiv.org/content/10.1101/2023.07.06.548007v1"
+        authors: Alex Diaz-Papkovich, Shadi Zabad, Chief Ben-Eghan, Luke Anderson-Trocmé, Georgette Femerling, Vikram Nathan, Jenisha Patel, Simon Gravel
+        conference: "bioRxiv (2023)"
  
       - title: "A review of UMAP in population genetics"
         link: "https://www.nature.com/articles/s10038-020-00851-4"
